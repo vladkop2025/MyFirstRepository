@@ -1,1 +1,1 @@
-в ветку merge-commit добавили файл Additional_merge-commit
+в новую ветку merge-commit добавили файл Additional_merge-commit
